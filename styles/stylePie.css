@@ -1,0 +1,12 @@
+body {
+  background: #4e4e4e;
+}
+#container {
+  min-width: 210px;
+  height: 300px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+#csv {
+  display: none;
+}

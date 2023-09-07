@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Inter:wght@200;300&family=Luckiest+Guy&family=Righteous&family=Roboto&family=Shadows+Into+Light&display=swap");
+body {
+  background: #4e4e4e;
+}
+
+#container {
+  width: 296px;
+  height: 181px;
+  top: 109px;
+  left: 137px;
+  margin: 1em auto;
+  border-radius: 2px;
+}
+#csv {
+  display: none;
+}
